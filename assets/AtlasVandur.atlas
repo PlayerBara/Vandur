@@ -1,0 +1,90 @@
+
+AtlasVandur.png
+size: 982, 952
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 718, 948
+  orig: 718, 948
+  offset: 0, 0
+  index: -1
+bigasteroid_a
+  rotate: false
+  xy: 852, 822
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bigasteroid_b
+  rotate: false
+  xy: 852, 432
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_a
+  rotate: false
+  xy: 722, 172
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_b
+  rotate: false
+  xy: 722, 432
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_c
+  rotate: false
+  xy: 722, 692
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_d
+  rotate: false
+  xy: 722, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_e
+  rotate: false
+  xy: 722, 562
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+energybullet
+  rotate: false
+  xy: 722, 822
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smallasteroid_a
+  rotate: false
+  xy: 852, 692
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smallasteroid_b
+  rotate: false
+  xy: 852, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+starship
+  rotate: false
+  xy: 852, 562
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
