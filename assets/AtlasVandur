@@ -1,0 +1,202 @@
+
+AtlasVandur.png
+size: 983, 952
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 718, 948
+  orig: 718, 948
+  offset: 0, 0
+  index: -1
+bigasteroid_a
+  rotate: false
+  xy: 722, 660
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bigasteroid_b
+  rotate: false
+  xy: 722, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyBullet
+  rotate: false
+  xy: 886, 476
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_a
+  rotate: false
+  xy: 852, 530
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_b
+  rotate: false
+  xy: 722, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_c
+  rotate: false
+  xy: 722, 530
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_d
+  rotate: false
+  xy: 852, 660
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy_e
+  rotate: false
+  xy: 722, 400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+explosion1
+  rotate: false
+  xy: 852, 392
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion2
+  rotate: false
+  xy: 884, 870
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion3
+  rotate: false
+  xy: 852, 358
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion4
+  rotate: false
+  xy: 884, 836
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion5
+  rotate: false
+  xy: 852, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion6
+  rotate: false
+  xy: 884, 802
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion7
+  rotate: false
+  xy: 852, 426
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+explosion8
+  rotate: false
+  xy: 949, 918
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lifeBar1
+  rotate: false
+  xy: 852, 494
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar2
+  rotate: false
+  xy: 884, 928
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar3
+  rotate: false
+  xy: 884, 904
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar4
+  rotate: false
+  xy: 917, 518
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar5
+  rotate: false
+  xy: 852, 518
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar6
+  rotate: false
+  xy: 917, 506
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar7
+  rotate: false
+  xy: 852, 506
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar8
+  rotate: false
+  xy: 884, 940
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+lifeBar9
+  rotate: false
+  xy: 884, 916
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+playerBullet
+  rotate: false
+  xy: 722, 790
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+starship
+  rotate: false
+  xy: 722, 270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
