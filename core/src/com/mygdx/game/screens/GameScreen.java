@@ -39,7 +39,6 @@ public class GameScreen extends BaseScreen implements ContactListener {
     //Stage es un elemento que hace que pueda almacenar los datos de los actores desde el ultimo frame
     private Stage stage;
     private OrthographicCamera ortCamera;
-    private Box2DDebugRenderer debugRenderer;
     private Image background; //Imagen de fondo del juego
     private StarShip starShip;
 
@@ -117,8 +116,6 @@ public class GameScreen extends BaseScreen implements ContactListener {
 
         //Se declara win
         this.win = true;
-
-        //this.debugRenderer = new Box2DDebugRenderer();
 
         //Este metodo prepara las fuentes
         prepareFonts();
@@ -499,7 +496,6 @@ public class GameScreen extends BaseScreen implements ContactListener {
         this.stage.act();
         this.world.step(delta, 6, 2);
         this.stage.draw();
-        //this.debugRenderer.render(this.world, this.ortCamera.combined);
 
         cleanExplosion(delta);
 

@@ -19,7 +19,6 @@ public class VandurGame extends Game {
 		this.assetmanager = new AssetMan();
 
 		this.gameReadyScreen = new GameReadyScreen(this);
-		//this.gameScreen = new GameScreen(this);
 		this.gameEndScreen = new GameEndScreen(this);
 
 		setScreen(this.gameReadyScreen);
